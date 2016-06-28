@@ -1,3 +1,3 @@
 # Mis temas para Oh My Zsh #
 ## Temas actuales: ##
-* Solus
+* Solus: Tema basado en el prompt de SolusProject
