@@ -1,3 +1,3 @@
 # Mis temas para Oh My Zsh #
-Temas actuales:
+## Temas actuales: ##
 * Solus
